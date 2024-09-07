@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "crypto": "^1.0.1",
+    "viem": "^2.21.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.4"
+  }
+}
